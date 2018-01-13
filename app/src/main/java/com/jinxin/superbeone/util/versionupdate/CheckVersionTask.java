@@ -16,7 +16,7 @@ import android.util.Log;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.beoneaid.activity.SettingActivity;
+import com.jinxin.superbeone.activity.SettingActivity;
 
 import org.json.JSONObject;
 
