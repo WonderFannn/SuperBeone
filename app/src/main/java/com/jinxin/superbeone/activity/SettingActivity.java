@@ -1,7 +1,9 @@
-package com.jinxin.superbeone;
+package com.jinxin.superbeone.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.jinxin.superbeone.R;
 
 public class SettingActivity extends AppCompatActivity {
 
