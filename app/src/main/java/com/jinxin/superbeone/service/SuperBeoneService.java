@@ -10,6 +10,9 @@ import android.support.annotation.Nullable;
  */
 
 public class SuperBeoneService extends Service {
+
+    public static final String SUPERBEONE_ACTION_NETWORK_DISCONNECTED = "com.jinxin.superbeone.ACTION.NETWORK.DISCONNECTED";
+    public static final String SUPERBEONE_ACTION_NETWORK_CONNECTED = "com.jinxin.superbeone.ACTION.NETWORK.CONNECTED";
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
