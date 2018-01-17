@@ -146,7 +146,7 @@ public class SuperBeoneService extends Service {
      *  和平台通信在线更新
      */
 
-
+    // TODO: 2018/1/17 未调试，未配置
     private RequestQueue mQueue;
     private void initReqQue(){
         mQueue = Volley.newRequestQueue(this);
