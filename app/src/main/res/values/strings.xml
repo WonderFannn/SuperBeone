@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SuperBeone</string>
+    <string name="beone_aiui_url">http://www.beonehome.com:6100/smarthome/mobile/service?$data=</string>
 </resources>
